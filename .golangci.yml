@@ -1,0 +1,16 @@
+linters:
+  enable:
+    - gocritic
+
+linters-settings:
+  gocritic:
+    enabled-tags:
+      - diagnostic
+      - experimental
+      - opinionated
+      - performance
+      - style
+
+run:
+  timeout: 5m
+  tests: false

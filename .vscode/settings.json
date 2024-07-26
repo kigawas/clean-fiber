@@ -1,0 +1,23 @@
+{
+    "cSpell.words": [
+        "Dialector",
+        "godoc",
+        "godotenv",
+        "gofiber",
+        "golangci",
+        "gorm",
+        "joho",
+        "kigawas",
+        "prefork",
+        "stretchr"
+    ],
+    "cSpell.ignorePaths": [
+        ".git/objects",
+        ".vscode",
+        ".golangci.yml",
+        "LICENSE",
+        "go.sum",
+        "websocket"
+    ],
+    "editor.formatOnSave": true
+}
